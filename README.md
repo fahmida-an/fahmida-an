@@ -43,6 +43,14 @@ Here are some ideas to get you started:
 #### [ Server Side ](https://github.com/programming-hero-web-course1/b8a12-server-side-fahmida-an.git)
 #### [ Live Demo ](https://b8a12-client-side-db933.web.app/)
 
-### 2.
+### 2. Tech Gadget Hub
+#### [ Client Side ](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-fahmida-an.git)
+#### [ Server Side ](https://github.com/Porgramming-Hero-web-course/b8a11-server-side-fahmida-an.git)
+#### [ Live Demo ](https://tech-gadget-hub.web.app/)
+
+### 2. Tech Gadget Hub
+#### [ Client Side ](https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-fahmida-an.git)
+#### [ Server Side ](https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-fahmida-an.git)
+#### [ Live Demo ](https://b8a10-brandshop-client-s-353c1.web.app/)
 
 
