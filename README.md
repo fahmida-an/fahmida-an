@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 #### [ Server Side ](https://github.com/fahmida-an/b8a11-server-side-fahmida-an.git)
 #### [ Live Demo ](https://tech-gadget-hub.web.app/)
 
-### 2. Brand Shop
+### 2. FahminsWearCollection
 #### [ Client Side ](https://github.com/fahmida-an/b8a10-brandshop-client-side.git)
 #### [ Server Side ]https://github.com/fahmida-an/b8a10-brandshop-server-side.git)
 #### [ Live Demo ](https://b8a10-brandshop-client-s-353c1.web.app/)
