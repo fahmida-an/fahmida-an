@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 
 ![Cover Image](https://i.ibb.co/0hmNSNt/gitcover.webp)
 
-## About Me
+## 🔭 About Me
 Hi, I'm Fahmida, a frontend developer with six month of experience. I specialize in HTML, CSS, and JavaScript, with extensive experience in React framework. I'm excited about the future of frontend development and open to exploring new opportunities that align with my vision. Let's connect and discuss how we can create exceptional user experiences together.
+- 💬 Ask me about HTML, CSS and JavaScript
+- - 🌱 I’m currently learning next.js
+- 📫 How to reach me: Email: fahmidakhann.19@gmail.com
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fahmida_an) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahmida-khan-ab702a210/) 
