@@ -17,14 +17,7 @@ Here are some ideas to get you started:
 ![Cover Image](https://i.ibb.co/0hmNSNt/gitcover.webp)
 
 
-## Projects
 
-### 1.NewsChannel
-#### [ Client Side ](https://github.com/programming-hero-web-course1/b8a12-client-side-fahmida-an.git)
-#### [ Server Side ](https://github.com/programming-hero-web-course1/b8a12-server-side-fahmida-an.git)
-#### [ Live Demo ](https://b8a12-client-side-db933.web.app/)
-
-### 2.
 
 
 ## 🌐 Socials
@@ -41,5 +34,15 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=fahmida-an&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## Projects
+
+### 1.NewsChannel
+#### [ Client Side ](https://github.com/programming-hero-web-course1/b8a12-client-side-fahmida-an.git)
+#### [ Server Side ](https://github.com/programming-hero-web-course1/b8a12-server-side-fahmida-an.git)
+#### [ Live Demo ](https://b8a12-client-side-db933.web.app/)
+
+### 2.
 
 
