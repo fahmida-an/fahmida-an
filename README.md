@@ -17,6 +17,15 @@ Here are some ideas to get you started:
 ![Cover Image](https://i.ibb.co/0hmNSNt/gitcover.webp)
 
 
+## Projects
+
+### 1.NewsChannel
+#### [ Client Side ](https://github.com/programming-hero-web-course1/b8a12-client-side-fahmida-an.git)
+#### [ Server Side ](https://github.com/programming-hero-web-course1/b8a12-server-side-fahmida-an.git)
+#### [ Live Demo ](https://b8a12-client-side-db933.web.app/)
+
+### 2.
+
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_fahmida_an) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fahmida-khan-ab702a210/) 
