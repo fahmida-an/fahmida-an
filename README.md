@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 #### [ Live Demo ](https://b8a12-client-side-db933.web.app/)
 
 ### 2. Tech Gadget Hub
-#### Description: 
+#### Description: Tech Gadget Hub is an online service provider website where anyone can get services after bookings.
 #### Technologies:
 - Front-End: html, tailwindcss, javascript
 - Backend:  expressjs, nodejs
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 #### [ Server Side ](https://github.com/fahmida-an/b8a11-server-side-fahmida-an.git)
 #### [ Live Demo ](https://tech-gadget-hub.web.app/)
 
-### 2. FahminsWearCollection
-#### Description:
+### 3. FahminsWearCollection
+#### Description: Fahmins Wear Collection is a website where people can see available wear things.
 #### Technologies:
 - Front-End: html, tailwindcss, javascript
 - Backend:  expressjs, nodejs
