@@ -38,18 +38,36 @@ Here are some ideas to get you started:
 ## Projects
 
 ### 1.NewsChannel
+#### Description: NewsChannel is a website which deliver news updates, offering a diverse range of topics such as travel, politics and entertainment etc.
+#### Technologies: 
+- Front-End: html, tailwindcss, javascript
+- Backend:  expressjs, nodejs
+- Authentication: firebase,
+- Database: mongodb
 #### [ Client Side ](https://github.com/fahmida-an/b8a12-client-side-fahmida-an.git)
 #### [ Server Side ](https://github.com/fahmida-an/b8a12-server-side-fahmida-an.git)
 #### [ Live Demo ](https://b8a12-client-side-db933.web.app/)
 
 ### 2. Tech Gadget Hub
+#### Description: 
+#### Technologies:
+- Front-End: html, tailwindcss, javascript
+- Backend:  expressjs, nodejs
+- Authentication: firebase,
+- Database: mongodb
 #### [ Client Side ](https://github.com/fahmida-an/b8a11-client-side-fahmida-an.git)
 #### [ Server Side ](https://github.com/fahmida-an/b8a11-server-side-fahmida-an.git)
 #### [ Live Demo ](https://tech-gadget-hub.web.app/)
 
 ### 2. FahminsWearCollection
+#### Description:
+#### Technologies:
+- Front-End: html, tailwindcss, javascript
+- Backend:  expressjs, nodejs
+- Authentication: firebase,
+- Database: mongodb
 #### [ Client Side ](https://github.com/fahmida-an/b8a10-brandshop-client-side.git)
-#### [ Server Side ]https://github.com/fahmida-an/b8a10-brandshop-server-side.git)
+#### [ Server Side ](https://github.com/fahmida-an/b8a10-brandshop-server-side.git)
 #### [ Live Demo ](https://b8a10-brandshop-client-s-353c1.web.app/)
 
 
