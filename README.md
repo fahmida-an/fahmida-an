@@ -19,9 +19,14 @@ Here are some ideas to get you started:
 ![Cover Image](https://i.ibb.co/0hmNSNt/gitcover.webp)
 
 ## About Me
-I am currently pursuing an MSc in Computer Science and Engineering at DTU. My interests include software development, web technologies, and problem-solving. Through academic and personal projects, I have gained experience with React, JavaScript, Node.js, Express.js, MongoDB, and Git. I enjoy collaborating in teams, learning new technologies, and building practical solutions. I am currently seeking opportunities to gain professional experience as a Student Developer or IT Student Worker in Denmark.
-- Ask me about HTML, CSS and JavaScript
-- I’m currently learning next.js
+Hi, I'm Fahmida Khan 👋
+
+I am currently pursuing an MSc in Computer Science and Engineering at DTU (Technical University of Denmark). I have a strong interest in software development, web technologies, and problem-solving.
+My experience includes working with React, JavaScript, Node.js, Express.js, MongoDB, Firebase, HTML, CSS, and Git. Through academic and personal projects, I have developed skills in frontend development, backend development, teamwork, and Agile project collaboration.
+I enjoy learning new technologies, building practical solutions, and contributing to innovative projects. Currently, I am seeking opportunities to gain professional experience as a Student Developer or IT Student Worker in Denmark.
+- Ask me about HTML, CSS, JavaScript, React, and Web Development.
+- MSc Computer Science and Engineering student at DTU.
+- Currently learning Next.js and building my skills in modern software development.
   
 ### 📫 Contact Me:
 - 📧 Email: fahmidakhann.19@gmail.com
